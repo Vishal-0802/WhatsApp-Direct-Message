@@ -17,7 +17,7 @@ You can download by clicking [here](https://github.com/dsciitpatna/WhatsApp-Dire
 
 ## Impact on society
 
-* People generally have to go through a lot of hassle and have to waste a lot of time to text some unknown number on WhatsApp. They have to save the contact before being able to text them on WWhatsApp. That time could be and should be put to more productive use.
+* People generally have to go through a lot of hassle and have to waste a lot of time to text some unknown number on WhatsApp. They have to save the contact before being able to text them on WhatsApp. That time could be and should be put to more productive use.
 * People do not necessarily have to save a number to their contacts if they just wish to send a WhatsApp message.
 * This will also help the college students and the youth generation, as they have to reach out to a lot of people, so saving contacts of each and every person they reach out to is tedious and wastes their precious time.
 * It helps people involved in Media and Public Relations, networking to carry out tasks easily and efficiently.
