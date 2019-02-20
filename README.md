@@ -8,6 +8,8 @@ A simple app which saves you the effort of saving numbers as contacts if you wis
 ## Features
 * No need to save the phone number in order to send WhatsApp message.
 * Send messages to yourself.
+* You have the option to save the number, if your mind swings.
+* You have the option to change the theme of the app.
 
 ## Download the app
 
